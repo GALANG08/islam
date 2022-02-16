@@ -1,5 +1,5 @@
 # install
 
 git clone https://github.com/GALANG08/islam
-cd Islam
+cd islam
 sh HALAL.sh
